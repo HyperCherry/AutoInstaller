@@ -1,0 +1,7 @@
+[
+  {
+    "Name": "Git-for-Windows",
+    "Url": "https://registry.npmmirror.com/-/binary/git-for-windows/v2.36.1.windows.1/Git-2.36.1-64-bit.exe",
+    "Argument": "/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-"
+  }
+]
